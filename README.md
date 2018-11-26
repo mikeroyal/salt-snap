@@ -21,7 +21,7 @@ distributions.</p>
 
 ## Install
 
-    sudo snap install faas
+    sudo snap install salt
 
 ([Don't have snapd installed?](https://snapcraft.io/docs/core/install))
 
